@@ -7,30 +7,23 @@
   body {
     text-align: center;
   }
-
-  }
 }
-
 body {
   margin-top: 100px;
 }
-
-h1,
-h2,
-h3 {
-  margin: 0;
-}
-
 h1 {
-  font-size: 96px;
+  font-size: 80px;
 }
 
 h2 {
   font-size: 48px;
 }
-
+h1,
+h2,
 h3 {
-  font-size: 24px;
+  margin: 0;
+}
+h3 {
   opacity: 0.7;
 }
 
